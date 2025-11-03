@@ -1,6 +1,6 @@
 # 🎬 Movie Ticket Booking System
 
-**Author:** Vandana Tanwar  
+**Author:** Vishal  
 **Project Type:** DBMS / Oracle SQL  
 **Date Generated:** 2025-11-03
 
